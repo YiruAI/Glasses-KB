@@ -1,2 +1,2 @@
-# awsome-kb
-各行各业的知识库
+# Glasses-KG
+眼镜垂直行业知识库
